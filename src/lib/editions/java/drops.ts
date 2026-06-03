@@ -170,7 +170,7 @@ export const drops: Version[] = [
   {
     title: "Tiny Takeover",
     subtitle: "26.1",
-    date: "2026-04-26",
+    date: "2026-03-24",
     type: "drop",
     icon: "/java/version_26_1.png",
     funFact: "Did you know? This is the first version of the game to use a two-digit year in its versioning system, marking a new era for Minecraft updates.",
